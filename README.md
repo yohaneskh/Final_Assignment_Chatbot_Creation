@@ -25,5 +25,12 @@ B. Temperature set up at 0.1 in order to prevent any hallucinations and unrelate
 4. Summary
 - The chatbot made is quite interactive in responding to user's queries and questions.
 - It is able to answer questions regarding the novel, Rita Hayworth and The Shawshank Redemption with RAG tool, and to answer questions on general topics and current events from the internet via Tavily tool.
-- It can utilize MMR dan Reranking functions.
-- 
+- It can utilize MMR dan Reranking functions in order to present better answers and responses.
+- It is compatible with laptops/devices with lower RAM setting. In my case, it is still able to run on my laptop which has 8GB RAM, using Mistral LLM and nomic-embed-text embedding model.
+
+5. Disclaimer:
+- I made this chatbot by modifying the original framework provided by Mr. Insan Ramadhan as the assigned mentor.
+- I also consulted with other participants which have educational and working background in software and data engineering before modifying the framework and codes.
+- I also use ChatGPT to check and explain the functions of each line of codes, in order to avoid any potential errors during responsiveness testing session.
+
+Thank you for your kind attention and assistance during the duration of the course.
