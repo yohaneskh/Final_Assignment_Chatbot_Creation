@@ -33,6 +33,8 @@ B. Temperature set up at 0.1 in order to prevent any hallucinations and unrelate
 - workflow.py --> organize chatbot's workflow, LLM model, tools and other processing units
 - RAG.ipynb --> cleaning and preparing the stored pdf file for the chatbot
 - config.ini --> to store senstive information (e.g. Tavily API Key)
+- PDF version of the novel Rita Hayworth and The Shawshank Redemption
+- Other supporting documents --> poetry.lock, pyproject.toml & chainlit.md
 
 7. Disclaimer:
 - I made this chatbot by modifying the original framework provided by Mr. Insan Ramadhan as the assigned mentor.
