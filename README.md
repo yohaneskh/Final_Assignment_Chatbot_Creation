@@ -28,7 +28,13 @@ B. Temperature set up at 0.1 in order to prevent any hallucinations and unrelate
 - It can utilize MMR dan Reranking functions in order to present better answers and responses.
 - It is compatible with laptops/devices with lower RAM setting. In my case, it is still able to run on my laptop which has 8GB RAM, using Mistral LLM and nomic-embed-text embedding model.
 
-5. Disclaimer:
+5. Attachments
+- main.py --> connect chatbot with workflow.py and Chainlit's user interface
+- workflow.py --> organize chatbot's workflow, LLM model, tools and other processing units
+- RAG.ipynb --> cleaning and preparing the stored pdf file for the chatbot
+- config.ini --> to store senstive information (e.g. Tavily API Key)
+
+7. Disclaimer:
 - I made this chatbot by modifying the original framework provided by Mr. Insan Ramadhan as the assigned mentor.
 - I also consulted with other participants which have educational and working background in software and data engineering before modifying the framework and codes.
 - I also use ChatGPT to check and explain the functions of each line of codes, in order to avoid any potential errors during responsiveness testing session.
